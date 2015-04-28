@@ -45,3 +45,5 @@ http://24ways.org/2013/get-started-with-github-pages/
 Ruby
 
 https://gorails.com/setup/ubuntu/14.04
+
+http://stackoverflow.com/questions/8648390/syntax-highlighting-markdown-code-blocks-in-jekyll-without-using-liquid-tags
