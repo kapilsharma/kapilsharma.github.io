@@ -22,7 +22,7 @@ widget-2:
 widget-3:
     title: "Author"
     url: 'https://github.com/Phlow/feeling-responsive'
-    text: 'A personal hobby but yes, I love reading fiction novels. Inspired and started writing my own first fiction novel. Although hosted on private github repository, ping me if you want to read my incomplete novel.'
+    text: 'A personal hobby but yes, I love reading fiction novels. Inspired and started writing my own first fiction novel. Although hosted on private github repository, ping me if you want to read my incomplete novels.'
     image: author.jpg
 ---
 
